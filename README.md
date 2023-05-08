@@ -4,9 +4,6 @@ Spark
 ## Installation
 Pyspark, Jupyter Notebook
 
-## Usage
-Learning purposes
-
 ## Task
 + Check restaurant data for incorrect (null) values (latitude and longitude). For incorrect values, map latitude and longitude from the OpenCage Geocoding API in a job via the REST API.
 + Generate a geohash by latitude and longitude using a geohash library like geohash-java. Your geohash should be four characters long and placed in an extra column.
