@@ -1,0 +1,5 @@
+.env
+.env_spark/*
+restaurant_csv
+weather_data
+output_data
